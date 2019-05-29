@@ -9,7 +9,7 @@ Please see [site.js](https://github.com/Migueldesousa94/BHHC/blob/master/BHHC/BH
 
 Please see [site.css](https://github.com/Migueldesousa94/BHHC/blob/master/BHHC/BHHC/wwwroot/css/site.css) for CSS design
 
-![bhhc](https://user-images.githubusercontent.com/23391796/58571792-54b7a880-81ef-11e9-990c-9ddb131e773d.JPG)
+![bhhc3](https://user-images.githubusercontent.com/23391796/58572662-f4c20180-81f0-11e9-8dd3-836723fe5606.JPG)
 
 ![bhhc1](https://user-images.githubusercontent.com/23391796/58571832-61d49780-81ef-11e9-8223-60aaf8b6639f.JPG)
 
