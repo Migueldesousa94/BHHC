@@ -1,0 +1,34 @@
+﻿<!--Miguel De Sousa-->
+<!--5-27-19-->
+<!--HTML for BHHC web application-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+
+<body>
+    <div id="originalList">                                 <!--The default list when web app is launched-->
+        <h1>Reasons I want to work for BHHC</h1>
+        <ul>
+            <li>BHHC donates to the Fred Finch Youth Center, a non-profit organization that provides mental health and social services to children.</li>
+            <li>I'm drawn to BHHC's commitment to new software to the worker's compensation industry.</li>
+            <li>As part of a smaller team, I will enjoy making a big impact on our growth.</li>
+            <li>I want to work somewhere that my work will impact millions of users.</li>
+            <li>I find the Microsoft stack more appealing than other stacks used by companies I have interviewed with.</li>
+        </ul>
+        <input type="text" id="listName" placeholder="Please name your new list" />         <!--User input for the name of their new list-->
+        <button onclick="newList()">Start a new list</button>                               <!--Hide default list and create the new list-->
+    </div>
+    <div id="newListt" style="display:none;">                                               <!--new list is hidden by default-->
+        <h1 id="newListName">placeholder</h1>
+        <ul id="newListul">
+            <li>New  list item</li>
+
+        </ul>
+        <input type="text" id="newItemName" placeholder="Please write an item" />           <!--User input for the name of the new item-->
+        <button onclick="addItem()">List item</button>
+    </div>
+</body>
+</html>

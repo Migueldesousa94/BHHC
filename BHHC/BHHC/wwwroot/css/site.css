@@ -1,0 +1,21 @@
+﻿/*  Miguel De Sousa
+    5-27-19
+    CSS for BHHC web application
+*/
+
+body {
+    background-color: #ffd800;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin: 20px auto;   
+}
+li {
+    text-align: left;
+    background-color: white;
+    padding: 5px;
+    margin-bottom: 5px;
+}
