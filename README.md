@@ -1,6 +1,6 @@
-My Javascript/JQuery solution to a web application project assigned to me.
+My JavaScript/jQuery solution to a web application project assigned to me.
 The default web app displays my top 5 reasons for wanting to work at BHHC.
-To complicate the app, I added JQuery solutions to create a new list of anything you'd like. 
+To complicate the app, I added jQuery solutions to create a new list of anything you'd like. 
 You can name the list and add an infinite amount of items to the list. 
 
 Please see [Index.cshtml](https://github.com/Migueldesousa94/BHHC/blob/master/BHHC/BHHC/Views/Home/Index.cshtml) for HTML code
